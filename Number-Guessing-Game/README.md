@@ -1,4 +1,4 @@
-Welcome to my Number Guess game to get started for https://roadmap.sh/projects/number-guessing-game.
+Welcome to my Number Guess game from [Roadmaps.sh](https://roadmap.sh/projects/number-guessing-game)
 
 To get started just Copy the repo
 ```
