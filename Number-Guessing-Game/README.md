@@ -1,5 +1,6 @@
-Welcome to my Number Guess game to get started Copy the repo
+Welcome to my Number Guess game to get started for https://roadmap.sh/projects/number-guessing-game.
 
+To get started just Copy the repo
 ```
 gh repo clone Ruik89/Roadmaps.sh-Backend-Projects
 ```
