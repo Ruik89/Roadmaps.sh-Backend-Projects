@@ -1,16 +1,17 @@
-Copy the repo
+Welcome to my Number Guess game to get started Copy the repo
 
 ```
 gh repo clone Ruik89/Roadmaps.sh-Backend-Projects
 ```
 
-Run the game
+Then run the game
 
 Python:
 
 ```
 python3 Roadmaps.sh-Backend-Projects/Number-Guessing-Game/python.py
 ```
+
 
 Prompt:
 
