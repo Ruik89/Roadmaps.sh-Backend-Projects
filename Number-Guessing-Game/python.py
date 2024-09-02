@@ -1,6 +1,6 @@
 import random
 #to add or remove difficultys then remove or add to the below list. everything else will auto correct 
-difficulty = [[7,"easy"],[5,"medium"],[3,"hard"]]
+difficulty = [[10,"easy"],[5,"medium"],[3,"hard"]]
 
 
 def gameSetup():
