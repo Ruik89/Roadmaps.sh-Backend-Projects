@@ -15,11 +15,9 @@ def gameSetup():
         print(f"please choose a number bettween 1 and {len(difficulty)}")
         userChoice = int(input())
 
-    print(f"""Great! You have selected the {difficulty[userChoice - 1][1]} difficulty level.
-    Let's start the game!""")
+    print(f"""Great! You have selected the {difficulty[userChoice - 1][1]} difficulty level. Let's start the game!""")
     chances = difficulty[userChoice - 1][0]
     randomNumber = random.randint(0,100)
-    print(randomNumber)
     tries = 0
     return chances,randomNumber,tries
     
@@ -39,7 +37,7 @@ def guessingGeme(tries,randomNumber,chances):
 
         if tries == chances:
             print(f"Game Over! The correct number was {randomNumber}")
-            contineGame() 
+            continueGame = contineGame() 
 
 def contineGame():
     print("\nwould you like to play again (y or n)")
